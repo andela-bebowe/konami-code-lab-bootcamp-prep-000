@@ -23,7 +23,7 @@ function init() {
           alert("WE DID IT")
         }
       }
-      arr = []
+      arr = arr.splice(1)
     }
   })
 }
